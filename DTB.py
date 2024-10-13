@@ -1,3 +1,8 @@
+# In tiêu đề phần mềm trong khung hình chữ nhật
+print("+-------------------------------+")
+print("| PHẦN MỀM XẾP LOẠI HỌC SINH    |")
+print("+-------------------------------+")
+
 # Nhập họ tên
 ho_ten = input("Nhập vào họ tên: ")
 
